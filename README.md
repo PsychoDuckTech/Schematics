@@ -2,6 +2,6 @@
 Schematic Files for the various PCBs
 
 # Useful Resources
-https://kicanvas.org/
+[KiCanvas](https://kicanvas.org/)
 
-[https://discord.gg/](https://discord.gg/zeTJYsWzsf)
+[Discord Server](https://discord.gg/zeTJYsWzsf)
