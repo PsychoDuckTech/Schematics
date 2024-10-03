@@ -3644,7 +3644,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00f79dfe-51bb-47a3-b229-863caa220dd0")
-		(property "Reference" "D131"
+		(property "Reference" "D42"
 			(at 193.04 77.4699 90)
 			(effects
 				(font
@@ -3662,7 +3662,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 190.5 78.74 0)
 			(effects
 				(font
@@ -3716,7 +3716,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D131")
+					(reference "D42")
 					(unit 1)
 				)
 			)
@@ -3732,7 +3732,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00f99ff6-8278-49a5-87ed-5f3ffd5499ef")
-		(property "Reference" "D135"
+		(property "Reference" "D46"
 			(at 36.83 99.0599 90)
 			(effects
 				(font
@@ -3750,7 +3750,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 34.29 100.33 0)
 			(effects
 				(font
@@ -3804,7 +3804,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D135")
+					(reference "D46")
 					(unit 1)
 				)
 			)
@@ -3820,7 +3820,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "03818e10-094d-443a-9571-f1534b2e0e18")
-		(property "Reference" "D145"
+		(property "Reference" "D51"
 			(at 109.22 99.0599 90)
 			(effects
 				(font
@@ -3838,7 +3838,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 106.68 100.33 0)
 			(effects
 				(font
@@ -3892,7 +3892,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D145")
+					(reference "D51")
 					(unit 1)
 				)
 			)
@@ -4058,7 +4058,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b773177-ddc8-4f10-b8bc-02bb400cc8b5")
-		(property "Reference" "D146"
+		(property "Reference" "D66"
 			(at 109.22 120.6499 90)
 			(effects
 				(font
@@ -4076,7 +4076,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 106.68 121.92 0)
 			(effects
 				(font
@@ -4130,7 +4130,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D146")
+					(reference "D66")
 					(unit 1)
 				)
 			)
@@ -4214,7 +4214,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0c238b19-ac84-4403-8501-144c8ef3a7fd")
-		(property "Reference" "D153"
+		(property "Reference" "D55"
 			(at 165.1 99.0599 90)
 			(effects
 				(font
@@ -4232,7 +4232,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 162.56 100.33 0)
 			(effects
 				(font
@@ -4286,7 +4286,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D153")
+					(reference "D55")
 					(unit 1)
 				)
 			)
@@ -4302,7 +4302,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10d9cf7f-0f5d-4a06-8f3a-918dd45c2d0a")
-		(property "Reference" "D113"
+		(property "Reference" "D24"
 			(at 151.13 55.8799 90)
 			(effects
 				(font
@@ -4320,7 +4320,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 148.59 57.15 0)
 			(effects
 				(font
@@ -4374,7 +4374,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D113")
+					(reference "D24")
 					(unit 1)
 				)
 			)
@@ -4390,7 +4390,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11e8bf83-2a7a-4d93-84d2-aca9e91b24d4")
-		(property "Reference" "S55"
+		(property "Reference" "S65"
 			(at 90.17 107.95 0)
 			(effects
 				(font
@@ -4442,7 +4442,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S55")
+					(reference "S65")
 					(unit 1)
 				)
 			)
@@ -4594,7 +4594,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b13731f-e254-4bd3-a9de-c73307c7369f")
-		(property "Reference" "D97"
+		(property "Reference" "D8"
 			(at 154.94 29.2099 90)
 			(effects
 				(font
@@ -4612,7 +4612,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 152.4 30.48 0)
 			(effects
 				(font
@@ -4666,7 +4666,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D97")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -4682,7 +4682,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b80eb51-9613-4601-aea1-2f29bb958121")
-		(property "Reference" "S54"
+		(property "Reference" "S50"
 			(at 90.17 86.36 0)
 			(effects
 				(font
@@ -4734,7 +4734,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S54")
+					(reference "S50")
 					(unit 1)
 				)
 			)
@@ -4818,7 +4818,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1cfdfa9c-35d2-4bcf-bc79-49da60c8f699")
-		(property "Reference" "S59"
+		(property "Reference" "S67"
 			(at 118.11 107.95 0)
 			(effects
 				(font
@@ -4870,7 +4870,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S59")
+					(reference "S67")
 					(unit 1)
 				)
 			)
@@ -4886,7 +4886,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1db176fc-99e3-4cab-bcdd-b99c21b90e3f")
-		(property "Reference" "D111"
+		(property "Reference" "D22"
 			(at 123.19 55.8799 90)
 			(effects
 				(font
@@ -4904,7 +4904,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 120.65 57.15 0)
 			(effects
 				(font
@@ -4958,7 +4958,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D111")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -4974,7 +4974,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e6406ed-2ba0-495a-8177-0b59c8f8fe5b")
-		(property "Reference" "D109"
+		(property "Reference" "D20"
 			(at 95.25 55.8799 90)
 			(effects
 				(font
@@ -4992,7 +4992,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 92.71 57.15 0)
 			(effects
 				(font
@@ -5046,7 +5046,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D109")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -5062,7 +5062,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fe03741-d27a-42e1-a5e8-3b2f17c3eb2b")
-		(property "Reference" "D108"
+		(property "Reference" "D19"
 			(at 81.28 55.8799 90)
 			(effects
 				(font
@@ -5080,7 +5080,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 78.74 57.15 0)
 			(effects
 				(font
@@ -5134,7 +5134,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D108")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -5150,7 +5150,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "219428b6-644f-4629-9cbd-1f4219b2730c")
-		(property "Reference" "D170"
+		(property "Reference" "D81"
 			(at 180.34 142.2399 90)
 			(effects
 				(font
@@ -5168,7 +5168,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 177.8 143.51 0)
 			(effects
 				(font
@@ -5222,7 +5222,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D170")
+					(reference "D81")
 					(unit 1)
 				)
 			)
@@ -5238,7 +5238,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21e4c846-8887-4db0-a101-1fb5e1b18273")
-		(property "Reference" "S71"
+		(property "Reference" "S73"
 			(at 210.82 107.95 0)
 			(effects
 				(font
@@ -5290,7 +5290,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S71")
+					(reference "S73")
 					(unit 1)
 				)
 			)
@@ -5374,7 +5374,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22c0c29b-6d72-493e-abfd-4f4f99f182e1")
-		(property "Reference" "D96"
+		(property "Reference" "D7"
 			(at 140.97 29.2099 90)
 			(effects
 				(font
@@ -5392,7 +5392,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 138.43 30.48 0)
 			(effects
 				(font
@@ -5446,7 +5446,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D96")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -5462,7 +5462,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2585e60c-1055-49bf-977f-1c907438f6a4")
-		(property "Reference" "D164"
+		(property "Reference" "D75"
 			(at 259.08 120.6499 90)
 			(effects
 				(font
@@ -5480,7 +5480,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 256.54 121.92 0)
 			(effects
 				(font
@@ -5534,7 +5534,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D164")
+					(reference "D75")
 					(unit 1)
 				)
 			)
@@ -5550,7 +5550,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26413640-660f-450e-86e9-5cb820fe340f")
-		(property "Reference" "D174"
+		(property "Reference" "D85"
 			(at 240.03 146.0499 90)
 			(effects
 				(font
@@ -5568,7 +5568,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 237.49 147.32 0)
 			(effects
 				(font
@@ -5622,7 +5622,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D174")
+					(reference "D85")
 					(unit 1)
 				)
 			)
@@ -5774,7 +5774,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e690e6b-2343-424f-93c3-f5ce4d8ee8ea")
-		(property "Reference" "D160"
+		(property "Reference" "D73"
 			(at 215.9 120.6499 90)
 			(effects
 				(font
@@ -5792,7 +5792,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 213.36 121.92 0)
 			(effects
 				(font
@@ -5846,7 +5846,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D160")
+					(reference "D73")
 					(unit 1)
 				)
 			)
@@ -5862,7 +5862,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e6956a7-05a2-40f3-9876-2a7dbd766b8e")
-		(property "Reference" "D112"
+		(property "Reference" "D23"
 			(at 137.16 55.8799 90)
 			(effects
 				(font
@@ -5880,7 +5880,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 134.62 57.15 0)
 			(effects
 				(font
@@ -5934,7 +5934,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D112")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -5950,7 +5950,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f2c7cb8-db32-417f-b2a5-42b04d872093")
-		(property "Reference" "D126"
+		(property "Reference" "D37"
 			(at 123.19 77.4699 90)
 			(effects
 				(font
@@ -5968,7 +5968,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 120.65 78.74 0)
 			(effects
 				(font
@@ -6022,7 +6022,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D126")
+					(reference "D37")
 					(unit 1)
 				)
 			)
@@ -6038,7 +6038,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31651720-a3ef-421c-acc4-36df1feb067d")
-		(property "Reference" "D125"
+		(property "Reference" "D36"
 			(at 109.22 77.4699 90)
 			(effects
 				(font
@@ -6056,7 +6056,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 106.68 78.74 0)
 			(effects
 				(font
@@ -6110,7 +6110,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D125")
+					(reference "D36")
 					(unit 1)
 				)
 			)
@@ -6126,7 +6126,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32042f10-5480-4908-bb78-1eed42a07ae0")
-		(property "Reference" "D168"
+		(property "Reference" "D79"
 			(at 81.28 142.2399 90)
 			(effects
 				(font
@@ -6144,7 +6144,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 78.74 143.51 0)
 			(effects
 				(font
@@ -6198,7 +6198,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D168")
+					(reference "D79")
 					(unit 1)
 				)
 			)
@@ -6214,7 +6214,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33ec21b5-9553-4b25-8b52-58d53e6a8211")
-		(property "Reference" "D91"
+		(property "Reference" "D2"
 			(at 71.12 29.2099 90)
 			(effects
 				(font
@@ -6232,7 +6232,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 68.58 30.48 0)
 			(effects
 				(font
@@ -6286,7 +6286,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D91")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -6302,7 +6302,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37b5f504-8bb8-408b-9b4c-43afac3589f8")
-		(property "Reference" "S52"
+		(property "Reference" "S49"
 			(at 76.2 86.36 0)
 			(effects
 				(font
@@ -6354,7 +6354,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S52")
+					(reference "S49")
 					(unit 1)
 				)
 			)
@@ -6370,7 +6370,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39c28443-5cb0-48db-a13c-181f8e0c0c82")
-		(property "Reference" "D999"
+		(property "Reference" "D0"
 			(at 35.56 29.2099 90)
 			(effects
 				(font
@@ -6388,7 +6388,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 33.02 30.48 0)
 			(effects
 				(font
@@ -6442,7 +6442,7 @@
 		(instances
 			(project ""
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D999")
+					(reference "D0")
 					(unit 1)
 				)
 			)
@@ -6458,7 +6458,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a9506ab-7f28-478f-abb3-a72a863c33ea")
-		(property "Reference" "S74"
+		(property "Reference" "S60"
 			(at 254 86.36 0)
 			(effects
 				(font
@@ -6510,7 +6510,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S74")
+					(reference "S60")
 					(unit 1)
 				)
 			)
@@ -6594,7 +6594,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "424ac205-6f5b-4a48-9362-89d0b95ac26f")
-		(property "Reference" "D99"
+		(property "Reference" "D10"
 			(at 181.61 29.2099 90)
 			(effects
 				(font
@@ -6612,7 +6612,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 179.07 30.48 0)
 			(effects
 				(font
@@ -6666,7 +6666,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D99")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -6682,7 +6682,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42d8cdab-260d-487e-8c2b-b39cf040ed3c")
-		(property "Reference" "D172"
+		(property "Reference" "D83"
 			(at 208.28 142.2399 90)
 			(effects
 				(font
@@ -6700,7 +6700,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 205.74 143.51 0)
 			(effects
 				(font
@@ -6754,7 +6754,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D172")
+					(reference "D83")
 					(unit 1)
 				)
 			)
@@ -6770,7 +6770,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "441f15e4-1793-4849-b85f-985c97b94819")
-		(property "Reference" "S65"
+		(property "Reference" "S70"
 			(at 160.02 107.95 0)
 			(effects
 				(font
@@ -6822,7 +6822,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S65")
+					(reference "S70")
 					(unit 1)
 				)
 			)
@@ -6838,7 +6838,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "444e6f00-6b22-412c-b049-ed72c9b5fedd")
-		(property "Reference" "D122"
+		(property "Reference" "D33"
 			(at 67.31 77.4699 90)
 			(effects
 				(font
@@ -6856,7 +6856,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 64.77 78.74 0)
 			(effects
 				(font
@@ -6910,7 +6910,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D122")
+					(reference "D33")
 					(unit 1)
 				)
 			)
@@ -6994,7 +6994,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47fb7458-deea-48ed-bbf4-da47976e9ab1")
-		(property "Reference" "S70"
+		(property "Reference" "S58"
 			(at 201.93 86.36 0)
 			(effects
 				(font
@@ -7046,7 +7046,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S70")
+					(reference "S58")
 					(unit 1)
 				)
 			)
@@ -7130,7 +7130,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d7d3e04-2ebe-4af2-8067-36c1276cb2cf")
-		(property "Reference" "D102"
+		(property "Reference" "D13"
 			(at 227.33 29.2099 90)
 			(effects
 				(font
@@ -7148,7 +7148,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 224.79 30.48 0)
 			(effects
 				(font
@@ -7202,7 +7202,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D102")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -7218,7 +7218,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f744126-8a2c-4977-8597-696c5086c7a2")
-		(property "Reference" "S63"
+		(property "Reference" "S69"
 			(at 146.05 107.95 0)
 			(effects
 				(font
@@ -7270,7 +7270,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S63")
+					(reference "S69")
 					(unit 1)
 				)
 			)
@@ -7286,7 +7286,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "501e10f3-6a35-4a9c-ac66-cdc06a0532d4")
-		(property "Reference" "S69"
+		(property "Reference" "S72"
 			(at 187.96 107.95 0)
 			(effects
 				(font
@@ -7338,7 +7338,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S69")
+					(reference "S72")
 					(unit 1)
 				)
 			)
@@ -7354,7 +7354,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51ffbe4e-fbfe-40fe-8bd4-d2ecc0dc1796")
-		(property "Reference" "D93"
+		(property "Reference" "D4"
 			(at 99.06 29.2099 90)
 			(effects
 				(font
@@ -7372,7 +7372,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 96.52 30.48 0)
 			(effects
 				(font
@@ -7426,7 +7426,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D93")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -7578,7 +7578,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5617037a-b7ed-4cd6-b160-bfb2e051a0ea")
-		(property "Reference" "S73"
+		(property "Reference" "S74"
 			(at 234.95 111.76 0)
 			(effects
 				(font
@@ -7630,7 +7630,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S73")
+					(reference "S74")
 					(unit 1)
 				)
 			)
@@ -7714,7 +7714,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a67d480-d4b2-4f56-b78d-98baca83286b")
-		(property "Reference" "D103"
+		(property "Reference" "D14"
 			(at 241.3 29.2099 90)
 			(effects
 				(font
@@ -7732,7 +7732,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 238.76 30.48 0)
 			(effects
 				(font
@@ -7786,7 +7786,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D103")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -7938,7 +7938,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f1b228f-f382-44fb-9e0f-e33a937d7403")
-		(property "Reference" "S61"
+		(property "Reference" "S68"
 			(at 132.08 107.95 0)
 			(effects
 				(font
@@ -7990,7 +7990,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S61")
+					(reference "S68")
 					(unit 1)
 				)
 			)
@@ -8006,7 +8006,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f8b3907-a815-4dd8-88e0-14866a6d651b")
-		(property "Reference" "D137"
+		(property "Reference" "D47"
 			(at 53.34 99.0599 90)
 			(effects
 				(font
@@ -8024,7 +8024,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 50.8 100.33 0)
 			(effects
 				(font
@@ -8078,7 +8078,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D137")
+					(reference "D47")
 					(unit 1)
 				)
 			)
@@ -8162,7 +8162,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "624b9867-5fea-4f34-bf98-0fb5b524a17c")
-		(property "Reference" "D148"
+		(property "Reference" "D67"
 			(at 123.19 120.6499 90)
 			(effects
 				(font
@@ -8180,7 +8180,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 120.65 121.92 0)
 			(effects
 				(font
@@ -8234,7 +8234,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D148")
+					(reference "D67")
 					(unit 1)
 				)
 			)
@@ -8250,7 +8250,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65757cfb-9cb3-459b-aa1a-89563b6e984f")
-		(property "Reference" "D139"
+		(property "Reference" "D48"
 			(at 67.31 99.0599 90)
 			(effects
 				(font
@@ -8268,7 +8268,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 64.77 100.33 0)
 			(effects
 				(font
@@ -8322,7 +8322,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D139")
+					(reference "D48")
 					(unit 1)
 				)
 			)
@@ -8338,7 +8338,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65a57a1f-6b06-4232-b894-c91151f602f5")
-		(property "Reference" "D166"
+		(property "Reference" "D77"
 			(at 53.34 142.2399 90)
 			(effects
 				(font
@@ -8356,7 +8356,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 50.8 143.51 0)
 			(effects
 				(font
@@ -8410,7 +8410,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D166")
+					(reference "D77")
 					(unit 1)
 				)
 			)
@@ -8426,7 +8426,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ac1f35a-93d1-4974-bc55-1a53ad821d8f")
-		(property "Reference" "S56"
+		(property "Reference" "S51"
 			(at 104.14 86.36 0)
 			(effects
 				(font
@@ -8478,7 +8478,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S56")
+					(reference "S51")
 					(unit 1)
 				)
 			)
@@ -8494,7 +8494,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b71f382-dc81-4711-9fd5-a6ac132baaf6")
-		(property "Reference" "D118"
+		(property "Reference" "D29"
 			(at 232.41 55.8799 90)
 			(effects
 				(font
@@ -8512,7 +8512,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 229.87 57.15 0)
 			(effects
 				(font
@@ -8566,7 +8566,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D118")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -8582,7 +8582,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c68ea2b-a5af-4187-92d1-2da5fb013f2a")
-		(property "Reference" "D143"
+		(property "Reference" "D50"
 			(at 95.25 99.0599 90)
 			(effects
 				(font
@@ -8600,7 +8600,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 92.71 100.33 0)
 			(effects
 				(font
@@ -8654,7 +8654,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D143")
+					(reference "D50")
 					(unit 1)
 				)
 			)
@@ -8738,7 +8738,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d7b90ad-6137-49c7-865a-9bce4d4e63b7")
-		(property "Reference" "D161"
+		(property "Reference" "D59"
 			(at 232.41 99.0599 90)
 			(effects
 				(font
@@ -8756,7 +8756,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 229.87 100.33 0)
 			(effects
 				(font
@@ -8810,7 +8810,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D161")
+					(reference "D59")
 					(unit 1)
 				)
 			)
@@ -8894,7 +8894,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "701998cb-0d4a-4015-8e85-a23d687cd291")
-		(property "Reference" "S67"
+		(property "Reference" "S71"
 			(at 173.99 107.95 0)
 			(effects
 				(font
@@ -8946,7 +8946,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S67")
+					(reference "S71")
 					(unit 1)
 				)
 			)
@@ -8962,7 +8962,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73cbd340-0dd5-4ae0-84a7-0157d6df384a")
-		(property "Reference" "D133"
+		(property "Reference" "D44"
 			(at 232.41 77.4699 90)
 			(effects
 				(font
@@ -8980,7 +8980,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 229.87 78.74 0)
 			(effects
 				(font
@@ -9034,7 +9034,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D133")
+					(reference "D44")
 					(unit 1)
 				)
 			)
@@ -9118,7 +9118,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79841c7b-caa6-405c-a145-98afb41ec17d")
-		(property "Reference" "D130"
+		(property "Reference" "D41"
 			(at 179.07 77.4699 90)
 			(effects
 				(font
@@ -9136,7 +9136,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 176.53 78.74 0)
 			(effects
 				(font
@@ -9190,7 +9190,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D130")
+					(reference "D41")
 					(unit 1)
 				)
 			)
@@ -9206,7 +9206,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bf98cfa-109f-4849-87b5-485ae4e89c2b")
-		(property "Reference" "D94"
+		(property "Reference" "D5"
 			(at 113.03 29.2099 90)
 			(effects
 				(font
@@ -9224,7 +9224,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 110.49 30.48 0)
 			(effects
 				(font
@@ -9278,7 +9278,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D94")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -9294,7 +9294,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f528752-20ae-41e5-af2c-72402d148484")
-		(property "Reference" "D159"
+		(property "Reference" "D58"
 			(at 207.01 99.0599 90)
 			(effects
 				(font
@@ -9312,7 +9312,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 204.47 100.33 0)
 			(effects
 				(font
@@ -9366,7 +9366,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D159")
+					(reference "D58")
 					(unit 1)
 				)
 			)
@@ -9382,7 +9382,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f6ff931-ee61-4124-890e-79cfe5e58a4c")
-		(property "Reference" "D98"
+		(property "Reference" "D9"
 			(at 167.64 29.2099 90)
 			(effects
 				(font
@@ -9400,7 +9400,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 165.1 30.48 0)
 			(effects
 				(font
@@ -9454,7 +9454,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D98")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -9470,7 +9470,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "806660e2-7068-43e8-b8d2-83985d458e83")
-		(property "Reference" "D151"
+		(property "Reference" "D54"
 			(at 151.13 99.0599 90)
 			(effects
 				(font
@@ -9488,7 +9488,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 148.59 100.33 0)
 			(effects
 				(font
@@ -9542,7 +9542,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D151")
+					(reference "D54")
 					(unit 1)
 				)
 			)
@@ -9626,7 +9626,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86d272dd-8f3a-4534-aaeb-82664372eecd")
-		(property "Reference" "D149"
+		(property "Reference" "D53"
 			(at 137.16 99.0599 90)
 			(effects
 				(font
@@ -9644,7 +9644,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 134.62 100.33 0)
 			(effects
 				(font
@@ -9698,7 +9698,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D149")
+					(reference "D53")
 					(unit 1)
 				)
 			)
@@ -9782,7 +9782,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b6db6e6-f306-48e6-922e-6d69366326d8")
-		(property "Reference" "D150"
+		(property "Reference" "D68"
 			(at 137.16 120.6499 90)
 			(effects
 				(font
@@ -9800,7 +9800,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 134.62 121.92 0)
 			(effects
 				(font
@@ -9854,7 +9854,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D150")
+					(reference "D68")
 					(unit 1)
 				)
 			)
@@ -9870,7 +9870,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8dcef1c3-0aa1-421c-872c-043d71de46c1")
-		(property "Reference" "D171"
+		(property "Reference" "D82"
 			(at 194.31 142.2399 90)
 			(effects
 				(font
@@ -9888,7 +9888,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 191.77 143.51 0)
 			(effects
 				(font
@@ -9942,7 +9942,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D171")
+					(reference "D82")
 					(unit 1)
 				)
 			)
@@ -10026,7 +10026,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "90105fbb-aaaa-4aca-8bc3-5421a0b1850c")
-		(property "Reference" "D132"
+		(property "Reference" "D43"
 			(at 207.01 77.4699 90)
 			(effects
 				(font
@@ -10044,7 +10044,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 204.47 78.74 0)
 			(effects
 				(font
@@ -10098,7 +10098,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D132")
+					(reference "D43")
 					(unit 1)
 				)
 			)
@@ -10114,7 +10114,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "911f4055-3e0e-4ced-86ab-bb2f829bec3a")
-		(property "Reference" "D141"
+		(property "Reference" "D49"
 			(at 81.28 99.0599 90)
 			(effects
 				(font
@@ -10132,7 +10132,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 78.74 100.33 0)
 			(effects
 				(font
@@ -10186,7 +10186,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D141")
+					(reference "D49")
 					(unit 1)
 				)
 			)
@@ -10270,7 +10270,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97263490-bde8-4bb3-9bbd-db5e1f8434b2")
-		(property "Reference" "D157"
+		(property "Reference" "D57"
 			(at 193.04 99.0599 90)
 			(effects
 				(font
@@ -10288,7 +10288,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 190.5 100.33 0)
 			(effects
 				(font
@@ -10342,7 +10342,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D157")
+					(reference "D57")
 					(unit 1)
 				)
 			)
@@ -10358,7 +10358,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9dd9bd9d-846b-493a-8d6e-ae415d41b665")
-		(property "Reference" "D117"
+		(property "Reference" "D28"
 			(at 207.01 55.8799 90)
 			(effects
 				(font
@@ -10376,7 +10376,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 204.47 57.15 0)
 			(effects
 				(font
@@ -10430,7 +10430,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D117")
+					(reference "D28")
 					(unit 1)
 				)
 			)
@@ -10446,7 +10446,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e206efd-1a20-4add-a1c5-48533f0ed8ad")
-		(property "Reference" "S60"
+		(property "Reference" "S53"
 			(at 132.08 86.36 0)
 			(effects
 				(font
@@ -10498,7 +10498,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S60")
+					(reference "S53")
 					(unit 1)
 				)
 			)
@@ -10514,7 +10514,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f8c2421-da3a-4740-9c28-de7d16e9871e")
-		(property "Reference" "D162"
+		(property "Reference" "D74"
 			(at 240.03 124.4599 90)
 			(effects
 				(font
@@ -10532,7 +10532,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 237.49 125.73 0)
 			(effects
 				(font
@@ -10586,7 +10586,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D162")
+					(reference "D74")
 					(unit 1)
 				)
 			)
@@ -10738,7 +10738,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2a83edf-0fe5-433e-9635-a010d99174ef")
-		(property "Reference" "D156"
+		(property "Reference" "D71"
 			(at 179.07 120.6499 90)
 			(effects
 				(font
@@ -10756,7 +10756,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 176.53 121.92 0)
 			(effects
 				(font
@@ -10810,7 +10810,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D156")
+					(reference "D71")
 					(unit 1)
 				)
 			)
@@ -10826,7 +10826,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a718abc1-319f-488a-afc2-7eee5dd3df31")
-		(property "Reference" "D120"
+		(property "Reference" "D31"
 			(at 36.83 77.4699 90)
 			(effects
 				(font
@@ -10844,7 +10844,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 34.29 78.74 0)
 			(effects
 				(font
@@ -10898,7 +10898,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D120")
+					(reference "D31")
 					(unit 1)
 				)
 			)
@@ -10914,7 +10914,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a790d245-5639-4410-be39-fb6a3977ea4d")
-		(property "Reference" "S66"
+		(property "Reference" "S56"
 			(at 173.99 86.36 0)
 			(effects
 				(font
@@ -10966,7 +10966,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S66")
+					(reference "S56")
 					(unit 1)
 				)
 			)
@@ -11186,7 +11186,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa9c6f4b-0796-4434-abd5-05f14aef1afb")
-		(property "Reference" "D119"
+		(property "Reference" "D30"
 			(at 259.08 55.8799 90)
 			(effects
 				(font
@@ -11204,7 +11204,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 256.54 57.15 0)
 			(effects
 				(font
@@ -11258,7 +11258,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D119")
+					(reference "D30")
 					(unit 1)
 				)
 			)
@@ -11274,7 +11274,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac281b2f-4e50-4aa1-a814-ff6c1cf53ca0")
-		(property "Reference" "S62"
+		(property "Reference" "S54"
 			(at 146.05 86.36 0)
 			(effects
 				(font
@@ -11326,7 +11326,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S62")
+					(reference "S54")
 					(unit 1)
 				)
 			)
@@ -11410,7 +11410,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af109326-6f13-4bc4-9b67-5daedc1cc8ba")
-		(property "Reference" "D136"
+		(property "Reference" "D61"
 			(at 36.83 120.6499 90)
 			(effects
 				(font
@@ -11428,7 +11428,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 34.29 121.92 0)
 			(effects
 				(font
@@ -11482,7 +11482,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D136")
+					(reference "D61")
 					(unit 1)
 				)
 			)
@@ -11838,7 +11838,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b459f2d0-bb26-4218-86c1-889befe5ea73")
-		(property "Reference" "D110"
+		(property "Reference" "D21"
 			(at 109.22 55.8799 90)
 			(effects
 				(font
@@ -11856,7 +11856,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 106.68 57.15 0)
 			(effects
 				(font
@@ -11910,7 +11910,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D110")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -11926,7 +11926,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b4628b3e-822d-4fcd-9fe4-88305e543663")
-		(property "Reference" "S64"
+		(property "Reference" "S55"
 			(at 160.02 86.36 0)
 			(effects
 				(font
@@ -11978,7 +11978,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S64")
+					(reference "S55")
 					(unit 1)
 				)
 			)
@@ -11994,7 +11994,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bae2bea6-73e0-4584-8d03-9ea99af49ea3")
-		(property "Reference" "D95"
+		(property "Reference" "D6"
 			(at 127 29.2099 90)
 			(effects
 				(font
@@ -12012,7 +12012,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 124.46 30.48 0)
 			(effects
 				(font
@@ -12066,7 +12066,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D95")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -12082,7 +12082,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bba1c8c1-b53b-4fba-8e46-175d9b71ef05")
-		(property "Reference" "S68"
+		(property "Reference" "S57"
 			(at 187.96 86.36 0)
 			(effects
 				(font
@@ -12134,7 +12134,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S68")
+					(reference "S57")
 					(unit 1)
 				)
 			)
@@ -12150,7 +12150,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bba5f555-6783-423d-9009-37c00646bdbe")
-		(property "Reference" "D101"
+		(property "Reference" "D12"
 			(at 209.55 29.2099 90)
 			(effects
 				(font
@@ -12168,7 +12168,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 207.01 30.48 0)
 			(effects
 				(font
@@ -12222,7 +12222,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D101")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -12306,7 +12306,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bdfbe4c2-1185-4e22-92ff-1040dc351dc4")
-		(property "Reference" "S50"
+		(property "Reference" "S48"
 			(at 62.23 86.36 0)
 			(effects
 				(font
@@ -12358,7 +12358,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S50")
+					(reference "S48")
 					(unit 1)
 				)
 			)
@@ -12442,7 +12442,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf03710c-34b1-44e6-8cb3-ddc346d2110f")
-		(property "Reference" "D144"
+		(property "Reference" "D65"
 			(at 95.25 120.6499 90)
 			(effects
 				(font
@@ -12460,7 +12460,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 92.71 121.92 0)
 			(effects
 				(font
@@ -12514,7 +12514,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D144")
+					(reference "D65")
 					(unit 1)
 				)
 			)
@@ -12530,7 +12530,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf0a6f71-d31e-4c2e-9bea-4c5c58d0faf9")
-		(property "Reference" "S58"
+		(property "Reference" "S52"
 			(at 118.11 86.36 0)
 			(effects
 				(font
@@ -12582,7 +12582,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S58")
+					(reference "S52")
 					(unit 1)
 				)
 			)
@@ -12666,7 +12666,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c0a62d10-2acf-41b7-af1a-8175ef470b5f")
-		(property "Reference" "D129"
+		(property "Reference" "D40"
 			(at 165.1 77.4699 90)
 			(effects
 				(font
@@ -12684,7 +12684,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 162.56 78.74 0)
 			(effects
 				(font
@@ -12738,7 +12738,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D129")
+					(reference "D40")
 					(unit 1)
 				)
 			)
@@ -12822,7 +12822,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2f6077a-4f6e-4ceb-8fad-36662b5f6785")
-		(property "Reference" "D163"
+		(property "Reference" "D60"
 			(at 259.08 99.0599 90)
 			(effects
 				(font
@@ -12840,7 +12840,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 256.54 100.33 0)
 			(effects
 				(font
@@ -12894,7 +12894,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D163")
+					(reference "D60")
 					(unit 1)
 				)
 			)
@@ -12910,7 +12910,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3bbbba5-2ed4-4238-a70f-fb092cffd7af")
-		(property "Reference" "S48"
+		(property "Reference" "S47"
 			(at 48.26 86.36 0)
 			(effects
 				(font
@@ -12962,7 +12962,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S48")
+					(reference "S47")
 					(unit 1)
 				)
 			)
@@ -12978,7 +12978,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5f4d744-7465-4f31-b6ce-bef7b191f925")
-		(property "Reference" "D167"
+		(property "Reference" "D78"
 			(at 67.31 142.2399 90)
 			(effects
 				(font
@@ -12996,7 +12996,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 64.77 143.51 0)
 			(effects
 				(font
@@ -13050,7 +13050,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D167")
+					(reference "D78")
 					(unit 1)
 				)
 			)
@@ -13066,7 +13066,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c6112e3b-8ef6-4b0f-ba66-07c7650b11a7")
-		(property "Reference" "S57"
+		(property "Reference" "S66"
 			(at 104.14 107.95 0)
 			(effects
 				(font
@@ -13118,7 +13118,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S57")
+					(reference "S66")
 					(unit 1)
 				)
 			)
@@ -13134,7 +13134,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c62448f0-81c9-41e1-b793-c38afd332b17")
-		(property "Reference" "D173"
+		(property "Reference" "D84"
 			(at 226.06 146.0499 90)
 			(effects
 				(font
@@ -13152,7 +13152,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 223.52 147.32 0)
 			(effects
 				(font
@@ -13206,7 +13206,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D173")
+					(reference "D84")
 					(unit 1)
 				)
 			)
@@ -13358,7 +13358,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c83f513f-ce8e-4871-a5f6-8bf34cb58a6a")
-		(property "Reference" "D124"
+		(property "Reference" "D35"
 			(at 95.25 77.4699 90)
 			(effects
 				(font
@@ -13376,7 +13376,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 92.71 78.74 0)
 			(effects
 				(font
@@ -13430,7 +13430,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D124")
+					(reference "D35")
 					(unit 1)
 				)
 			)
@@ -13514,7 +13514,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9d20c36-d13a-4de3-9737-233985496e8e")
-		(property "Reference" "D147"
+		(property "Reference" "D52"
 			(at 123.19 99.0599 90)
 			(effects
 				(font
@@ -13532,7 +13532,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 120.65 100.33 0)
 			(effects
 				(font
@@ -13586,7 +13586,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D147")
+					(reference "D52")
 					(unit 1)
 				)
 			)
@@ -13602,7 +13602,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc04de9b-6ab8-4f73-9af3-d7ae4e082232")
-		(property "Reference" "D90"
+		(property "Reference" "D1"
 			(at 57.15 29.2099 90)
 			(effects
 				(font
@@ -13620,7 +13620,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 54.61 30.48 0)
 			(effects
 				(font
@@ -13674,7 +13674,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D90")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -13690,7 +13690,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc4c8297-2705-4569-9989-ecc1feb20592")
-		(property "Reference" "D152"
+		(property "Reference" "D69"
 			(at 151.13 120.6499 90)
 			(effects
 				(font
@@ -13708,7 +13708,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 148.59 121.92 0)
 			(effects
 				(font
@@ -13762,7 +13762,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D152")
+					(reference "D69")
 					(unit 1)
 				)
 			)
@@ -13778,7 +13778,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ccd27961-3a1b-4f8f-a007-4b94c9154844")
-		(property "Reference" "D123"
+		(property "Reference" "D34"
 			(at 81.28 77.4699 90)
 			(effects
 				(font
@@ -13796,7 +13796,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 78.74 78.74 0)
 			(effects
 				(font
@@ -13850,7 +13850,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D123")
+					(reference "D34")
 					(unit 1)
 				)
 			)
@@ -13866,7 +13866,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd9e2077-cc82-477a-becf-40e2b6955eda")
-		(property "Reference" "D140"
+		(property "Reference" "D63"
 			(at 67.31 120.6499 90)
 			(effects
 				(font
@@ -13884,7 +13884,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 64.77 121.92 0)
 			(effects
 				(font
@@ -13938,7 +13938,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D140")
+					(reference "D63")
 					(unit 1)
 				)
 			)
@@ -14090,7 +14090,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1af6be6-0f90-43ad-9828-4660489e31ed")
-		(property "Reference" "D104"
+		(property "Reference" "D15"
 			(at 259.08 29.2099 90)
 			(effects
 				(font
@@ -14108,7 +14108,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 256.54 30.48 0)
 			(effects
 				(font
@@ -14162,7 +14162,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D104")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -14178,7 +14178,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1e8a60f-d7d2-4133-9247-fd4ea3a851b7")
-		(property "Reference" "D92"
+		(property "Reference" "D3"
 			(at 85.09 29.2099 90)
 			(effects
 				(font
@@ -14196,7 +14196,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 82.55 30.48 0)
 			(effects
 				(font
@@ -14250,7 +14250,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D92")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -14334,7 +14334,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3d132b5-4abf-4bd6-97cd-d003a4546c95")
-		(property "Reference" "D107"
+		(property "Reference" "D18"
 			(at 67.31 55.8799 90)
 			(effects
 				(font
@@ -14352,7 +14352,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 64.77 57.15 0)
 			(effects
 				(font
@@ -14406,7 +14406,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D107")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -14558,7 +14558,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e046d693-78e2-4161-9daf-93e5759e2bb6")
-		(property "Reference" "D105"
+		(property "Reference" "D16"
 			(at 36.83 55.8799 90)
 			(effects
 				(font
@@ -14576,7 +14576,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 34.29 57.15 0)
 			(effects
 				(font
@@ -14630,7 +14630,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D105")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -14714,7 +14714,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e08f7880-7092-4874-812b-7b767799bd01")
-		(property "Reference" "D165"
+		(property "Reference" "D76"
 			(at 36.83 142.2399 90)
 			(effects
 				(font
@@ -14732,7 +14732,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 34.29 143.51 0)
 			(effects
 				(font
@@ -14786,7 +14786,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D165")
+					(reference "D76")
 					(unit 1)
 				)
 			)
@@ -14982,7 +14982,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e1c2c1bf-f209-4138-9d59-de81a3062180")
-		(property "Reference" "D154"
+		(property "Reference" "D70"
 			(at 165.1 120.6499 90)
 			(effects
 				(font
@@ -15000,7 +15000,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 162.56 121.92 0)
 			(effects
 				(font
@@ -15054,7 +15054,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D154")
+					(reference "D70")
 					(unit 1)
 				)
 			)
@@ -15138,7 +15138,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e40f9f7f-0ea6-4693-bb89-a947d2211d56")
-		(property "Reference" "D100"
+		(property "Reference" "D11"
 			(at 195.58 29.2099 90)
 			(effects
 				(font
@@ -15156,7 +15156,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 193.04 30.48 0)
 			(effects
 				(font
@@ -15210,7 +15210,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D100")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -15226,7 +15226,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e45bfab2-b6da-47e0-8fe4-2b559506fcae")
-		(property "Reference" "D121"
+		(property "Reference" "D32"
 			(at 53.34 77.4699 90)
 			(effects
 				(font
@@ -15244,7 +15244,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 50.8 78.74 0)
 			(effects
 				(font
@@ -15298,7 +15298,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D121")
+					(reference "D32")
 					(unit 1)
 				)
 			)
@@ -15450,7 +15450,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e88d3985-6cda-441c-956f-fb2c12473c38")
-		(property "Reference" "D138"
+		(property "Reference" "D62"
 			(at 53.34 120.6499 90)
 			(effects
 				(font
@@ -15468,7 +15468,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 50.8 121.92 0)
 			(effects
 				(font
@@ -15522,7 +15522,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D138")
+					(reference "D62")
 					(unit 1)
 				)
 			)
@@ -15674,7 +15674,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb8d9c3c-d9da-4601-a76b-c787033f3d6a")
-		(property "Reference" "S72"
+		(property "Reference" "S59"
 			(at 227.33 86.36 0)
 			(effects
 				(font
@@ -15726,7 +15726,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S72")
+					(reference "S59")
 					(unit 1)
 				)
 			)
@@ -15742,7 +15742,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed2a34a4-c986-4b48-8cd4-daf7d2194720")
-		(property "Reference" "S47"
+		(property "Reference" "S61"
 			(at 31.75 107.95 0)
 			(effects
 				(font
@@ -15794,7 +15794,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S47")
+					(reference "S61")
 					(unit 1)
 				)
 			)
@@ -15878,7 +15878,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "efc3bf86-f099-4c2d-944d-3d77b327ab0c")
-		(property "Reference" "D175"
+		(property "Reference" "D86"
 			(at 254 146.0499 90)
 			(effects
 				(font
@@ -15896,7 +15896,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 251.46 147.32 0)
 			(effects
 				(font
@@ -15950,7 +15950,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D175")
+					(reference "D86")
 					(unit 1)
 				)
 			)
@@ -15966,7 +15966,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f004ccf9-abfb-4d20-a142-fa8b1787420f")
-		(property "Reference" "S53"
+		(property "Reference" "S64"
 			(at 76.2 107.95 0)
 			(effects
 				(font
@@ -16018,7 +16018,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S53")
+					(reference "S64")
 					(unit 1)
 				)
 			)
@@ -16102,7 +16102,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3caf47d-90ba-426e-9989-5df894506462")
-		(property "Reference" "D134"
+		(property "Reference" "D45"
 			(at 259.08 77.4699 90)
 			(effects
 				(font
@@ -16120,7 +16120,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 256.54 78.74 0)
 			(effects
 				(font
@@ -16174,7 +16174,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D134")
+					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -16190,7 +16190,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f54cda4e-f038-4538-8f14-1e10ff7968cb")
-		(property "Reference" "D127"
+		(property "Reference" "D38"
 			(at 137.16 77.4699 90)
 			(effects
 				(font
@@ -16208,7 +16208,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 134.62 78.74 0)
 			(effects
 				(font
@@ -16262,7 +16262,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D127")
+					(reference "D38")
 					(unit 1)
 				)
 			)
@@ -16278,7 +16278,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f55eea7a-46e5-4458-9396-1eff9784e4a6")
-		(property "Reference" "D116"
+		(property "Reference" "D27"
 			(at 193.04 55.8799 90)
 			(effects
 				(font
@@ -16296,7 +16296,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 190.5 57.15 0)
 			(effects
 				(font
@@ -16350,7 +16350,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D116")
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -16366,7 +16366,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5c59cc7-0c99-4509-9547-d0c4e118575d")
-		(property "Reference" "D114"
+		(property "Reference" "D25"
 			(at 165.1 55.8799 90)
 			(effects
 				(font
@@ -16384,7 +16384,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 162.56 57.15 0)
 			(effects
 				(font
@@ -16438,7 +16438,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D114")
+					(reference "D25")
 					(unit 1)
 				)
 			)
@@ -16454,7 +16454,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6211ff0-0530-41d5-b337-da5ccb3e6795")
-		(property "Reference" "D128"
+		(property "Reference" "D39"
 			(at 151.13 77.4699 90)
 			(effects
 				(font
@@ -16472,7 +16472,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 148.59 78.74 0)
 			(effects
 				(font
@@ -16526,7 +16526,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D128")
+					(reference "D39")
 					(unit 1)
 				)
 			)
@@ -16678,7 +16678,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7b36bf7-fb48-44cf-bf96-7541a8bc0206")
-		(property "Reference" "D115"
+		(property "Reference" "D26"
 			(at 179.07 55.8799 90)
 			(effects
 				(font
@@ -16696,7 +16696,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 176.53 57.15 0)
 			(effects
 				(font
@@ -16750,7 +16750,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D115")
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -16766,7 +16766,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f97f86b4-3cea-40ee-9510-35251aa17065")
-		(property "Reference" "D106"
+		(property "Reference" "D17"
 			(at 53.34 55.8799 90)
 			(effects
 				(font
@@ -16784,7 +16784,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 50.8 57.15 0)
 			(effects
 				(font
@@ -16838,7 +16838,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D106")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -16854,7 +16854,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd0366d5-554b-4c40-b58c-b33424024c48")
-		(property "Reference" "D142"
+		(property "Reference" "D64"
 			(at 81.28 120.6499 90)
 			(effects
 				(font
@@ -16872,7 +16872,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 78.74 121.92 0)
 			(effects
 				(font
@@ -16926,7 +16926,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D142")
+					(reference "D64")
 					(unit 1)
 				)
 			)
@@ -17010,7 +17010,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fdf30da1-15e4-4ac8-99a9-a1814606103e")
-		(property "Reference" "S49"
+		(property "Reference" "S62"
 			(at 48.26 107.95 0)
 			(effects
 				(font
@@ -17062,7 +17062,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S49")
+					(reference "S62")
 					(unit 1)
 				)
 			)
@@ -17078,7 +17078,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe84f837-395a-42df-9dc1-4869bddd1800")
-		(property "Reference" "D169"
+		(property "Reference" "D80"
 			(at 132.08 142.2399 90)
 			(effects
 				(font
@@ -17096,7 +17096,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 129.54 143.51 0)
 			(effects
 				(font
@@ -17150,7 +17150,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D169")
+					(reference "D80")
 					(unit 1)
 				)
 			)
@@ -17166,7 +17166,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff06ca45-631f-4d92-b1a1-8f488d0ed233")
-		(property "Reference" "S51"
+		(property "Reference" "S63"
 			(at 62.23 107.95 0)
 			(effects
 				(font
@@ -17218,7 +17218,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "S51")
+					(reference "S63")
 					(unit 1)
 				)
 			)
@@ -17234,7 +17234,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff13d1ea-1912-4843-a72a-542959f92936")
-		(property "Reference" "D155"
+		(property "Reference" "D56"
 			(at 179.07 99.0599 90)
 			(effects
 				(font
@@ -17252,7 +17252,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 176.53 100.33 0)
 			(effects
 				(font
@@ -17306,7 +17306,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D155")
+					(reference "D56")
 					(unit 1)
 				)
 			)
@@ -17322,7 +17322,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffe8a610-8934-4ec3-b67b-30992461dd62")
-		(property "Reference" "D158"
+		(property "Reference" "D72"
 			(at 193.04 120.6499 90)
 			(effects
 				(font
@@ -17340,7 +17340,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
+		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
 			(at 190.5 121.92 0)
 			(effects
 				(font
@@ -17394,7 +17394,7 @@
 		(instances
 			(project "v2"
 				(path "/f5251cc4-e858-44ac-b8dc-5c37b80e6aaa"
-					(reference "D158")
+					(reference "D72")
 					(unit 1)
 				)
 			)
