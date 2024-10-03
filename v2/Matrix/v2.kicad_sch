@@ -5951,7 +5951,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 190.5 78.74 0)
 			(effects
 				(font
@@ -6039,7 +6039,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 34.29 100.33 0)
 			(effects
 				(font
@@ -6127,7 +6127,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 106.68 100.33 0)
 			(effects
 				(font
@@ -6349,7 +6349,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 204.47 24.13 0)
 			(effects
 				(font
@@ -6760,7 +6760,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 106.68 121.92 0)
 			(effects
 				(font
@@ -6846,7 +6846,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 107.95 24.13 0)
 			(effects
 				(font
@@ -6916,7 +6916,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 162.56 100.33 0)
 			(effects
 				(font
@@ -7410,7 +7410,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 148.59 57.15 0)
 			(effects
 				(font
@@ -7496,7 +7496,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 90.17 115.57 0)
 			(effects
 				(font
@@ -7633,7 +7633,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 62.23 72.39 0)
 			(effects
 				(font
@@ -7770,7 +7770,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 132.08 72.39 0)
 			(effects
 				(font
@@ -8386,7 +8386,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 152.4 30.48 0)
 			(effects
 				(font
@@ -8472,7 +8472,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 90.17 93.98 0)
 			(effects
 				(font
@@ -8540,7 +8540,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 160.02 50.8 0)
 			(effects
 				(font
@@ -8744,7 +8744,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 118.11 115.57 0)
 			(effects
 				(font
@@ -8950,7 +8950,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 120.65 57.15 0)
 			(effects
 				(font
@@ -9105,7 +9105,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 92.71 57.15 0)
 			(effects
 				(font
@@ -9329,7 +9329,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 78.74 57.15 0)
 			(effects
 				(font
@@ -9417,7 +9417,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 177.8 143.51 0)
 			(effects
 				(font
@@ -9572,7 +9572,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 210.82 115.57 0)
 			(effects
 				(font
@@ -9640,7 +9640,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 66.04 24.13 0)
 			(effects
 				(font
@@ -9710,7 +9710,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 138.43 30.48 0)
 			(effects
 				(font
@@ -9932,7 +9932,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 256.54 121.92 0)
 			(effects
 				(font
@@ -10020,7 +10020,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 237.49 147.32 0)
 			(effects
 				(font
@@ -10311,7 +10311,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 173.99 50.8 0)
 			(effects
 				(font
@@ -10446,7 +10446,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 118.11 72.39 0)
 			(effects
 				(font
@@ -10516,7 +10516,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 213.36 121.92 0)
 			(effects
 				(font
@@ -10604,7 +10604,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 134.62 57.15 0)
 			(effects
 				(font
@@ -10761,7 +10761,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 120.65 78.74 0)
 			(effects
 				(font
@@ -11052,7 +11052,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 106.68 78.74 0)
 			(effects
 				(font
@@ -11207,7 +11207,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 78.74 143.51 0)
 			(effects
 				(font
@@ -11362,7 +11362,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 68.58 30.48 0)
 			(effects
 				(font
@@ -11655,7 +11655,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 76.2 93.98 0)
 			(effects
 				(font
@@ -11725,7 +11725,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 33.02 30.48 0)
 			(effects
 				(font
@@ -11947,7 +11947,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 254 93.98 0)
 			(effects
 				(font
@@ -12419,7 +12419,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 31.75 137.16 0)
 			(effects
 				(font
@@ -12556,7 +12556,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 179.07 30.48 0)
 			(effects
 				(font
@@ -12644,7 +12644,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 205.74 143.51 0)
 			(effects
 				(font
@@ -12730,7 +12730,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 160.02 115.57 0)
 			(effects
 				(font
@@ -12800,7 +12800,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 64.77 78.74 0)
 			(effects
 				(font
@@ -13093,7 +13093,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 160.02 72.39 0)
 			(effects
 				(font
@@ -13161,7 +13161,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 201.93 93.98 0)
 			(effects
 				(font
@@ -13430,7 +13430,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 52.07 24.13 0)
 			(effects
 				(font
@@ -13500,7 +13500,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 224.79 30.48 0)
 			(effects
 				(font
@@ -13586,7 +13586,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 146.05 115.57 0)
 			(effects
 				(font
@@ -13721,7 +13721,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 187.96 115.57 0)
 			(effects
 				(font
@@ -13791,7 +13791,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 96.52 30.48 0)
 			(effects
 				(font
@@ -13877,7 +13877,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 254 24.13 0)
 			(effects
 				(font
@@ -13945,7 +13945,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 189.23 137.16 0)
 			(effects
 				(font
@@ -14216,7 +14216,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 234.95 119.38 0)
 			(effects
 				(font
@@ -14627,7 +14627,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 30.48 24.13 0)
 			(effects
 				(font
@@ -14833,7 +14833,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 238.76 30.48 0)
 			(effects
 				(font
@@ -15262,7 +15262,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 48.26 137.16 0)
 			(effects
 				(font
@@ -15534,7 +15534,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 90.17 72.39 0)
 			(effects
 				(font
@@ -15602,7 +15602,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 132.08 115.57 0)
 			(effects
 				(font
@@ -15741,7 +15741,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 50.8 100.33 0)
 			(effects
 				(font
@@ -15894,7 +15894,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 90.17 50.8 0)
 			(effects
 				(font
@@ -16236,7 +16236,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 120.65 121.92 0)
 			(effects
 				(font
@@ -16529,7 +16529,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 64.77 100.33 0)
 			(effects
 				(font
@@ -16617,7 +16617,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 50.8 143.51 0)
 			(effects
 				(font
@@ -16906,7 +16906,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 104.14 93.98 0)
 			(effects
 				(font
@@ -17043,7 +17043,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 229.87 57.15 0)
 			(effects
 				(font
@@ -17401,7 +17401,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 92.71 100.33 0)
 			(effects
 				(font
@@ -17487,7 +17487,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 80.01 24.13 0)
 			(effects
 				(font
@@ -17624,7 +17624,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 229.87 100.33 0)
 			(effects
 				(font
@@ -17779,7 +17779,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 104.14 50.8 0)
 			(effects
 				(font
@@ -17914,7 +17914,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 173.99 115.57 0)
 			(effects
 				(font
@@ -17984,7 +17984,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 229.87 78.74 0)
 			(effects
 				(font
@@ -18139,7 +18139,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 104.14 72.39 0)
 			(effects
 				(font
@@ -18209,7 +18209,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 176.53 78.74 0)
 			(effects
 				(font
@@ -18364,7 +18364,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 110.49 30.48 0)
 			(effects
 				(font
@@ -18588,7 +18588,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 204.47 100.33 0)
 			(effects
 				(font
@@ -18676,7 +18676,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 165.1 30.48 0)
 			(effects
 				(font
@@ -18900,7 +18900,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 148.59 100.33 0)
 			(effects
 				(font
@@ -18986,7 +18986,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 248.92 140.97 0)
 			(effects
 				(font
@@ -19056,7 +19056,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 134.62 100.33 0)
 			(effects
 				(font
@@ -19278,7 +19278,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 254 50.8 0)
 			(effects
 				(font
@@ -19348,7 +19348,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 134.62 121.92 0)
 			(effects
 				(font
@@ -19710,7 +19710,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 191.77 143.51 0)
 			(effects
 				(font
@@ -19863,7 +19863,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 162.56 24.13 0)
 			(effects
 				(font
@@ -20000,7 +20000,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 204.47 78.74 0)
 			(effects
 				(font
@@ -20088,7 +20088,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 78.74 100.33 0)
 			(effects
 				(font
@@ -20174,7 +20174,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 222.25 24.13 0)
 			(effects
 				(font
@@ -20581,7 +20581,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 190.5 100.33 0)
 			(effects
 				(font
@@ -20805,7 +20805,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 204.47 57.15 0)
 			(effects
 				(font
@@ -20891,7 +20891,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 132.08 93.98 0)
 			(effects
 				(font
@@ -20961,7 +20961,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 237.49 125.73 0)
 			(effects
 				(font
@@ -21317,7 +21317,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 187.96 50.8 0)
 			(effects
 				(font
@@ -21385,7 +21385,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 76.2 72.39 0)
 			(effects
 				(font
@@ -21455,7 +21455,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 176.53 121.92 0)
 			(effects
 				(font
@@ -21681,7 +21681,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 34.29 78.74 0)
 			(effects
 				(font
@@ -21767,7 +21767,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 173.99 93.98 0)
 			(effects
 				(font
@@ -21835,7 +21835,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 48.26 72.39 0)
 			(effects
 				(font
@@ -21903,7 +21903,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 201.93 50.8 0)
 			(effects
 				(font
@@ -21971,7 +21971,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 62.23 137.16 0)
 			(effects
 				(font
@@ -22110,7 +22110,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 256.54 57.15 0)
 			(effects
 				(font
@@ -22265,7 +22265,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 146.05 93.98 0)
 			(effects
 				(font
@@ -22333,7 +22333,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 48.26 50.8 0)
 			(effects
 				(font
@@ -22675,7 +22675,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 34.29 121.92 0)
 			(effects
 				(font
@@ -22761,7 +22761,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 234.95 140.97 0)
 			(effects
 				(font
@@ -22829,7 +22829,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 227.33 72.39 0)
 			(effects
 				(font
@@ -22897,7 +22897,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 121.92 24.13 0)
 			(effects
 				(font
@@ -23103,7 +23103,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 190.5 24.13 0)
 			(effects
 				(font
@@ -23238,7 +23238,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 132.08 50.8 0)
 			(effects
 				(font
@@ -23375,7 +23375,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 106.68 57.15 0)
 			(effects
 				(font
@@ -23461,7 +23461,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 160.02 93.98 0)
 			(effects
 				(font
@@ -23874,7 +23874,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 124.46 30.48 0)
 			(effects
 				(font
@@ -23960,7 +23960,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 187.96 93.98 0)
 			(effects
 				(font
@@ -24030,7 +24030,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 207.01 30.48 0)
 			(effects
 				(font
@@ -24183,7 +24183,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 31.75 72.39 0)
 			(effects
 				(font
@@ -24318,7 +24318,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 62.23 93.98 0)
 			(effects
 				(font
@@ -24386,7 +24386,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 149.86 24.13 0)
 			(effects
 				(font
@@ -24456,7 +24456,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 92.71 121.92 0)
 			(effects
 				(font
@@ -24542,7 +24542,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 118.11 93.98 0)
 			(effects
 				(font
@@ -24610,7 +24610,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 146.05 72.39 0)
 			(effects
 				(font
@@ -24680,7 +24680,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 162.56 78.74 0)
 			(effects
 				(font
@@ -24902,7 +24902,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 135.89 24.13 0)
 			(effects
 				(font
@@ -25041,7 +25041,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 256.54 100.33 0)
 			(effects
 				(font
@@ -25127,7 +25127,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 48.26 93.98 0)
 			(effects
 				(font
@@ -25197,7 +25197,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 64.77 143.51 0)
 			(effects
 				(font
@@ -25283,7 +25283,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 104.14 115.57 0)
 			(effects
 				(font
@@ -25353,7 +25353,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 223.52 147.32 0)
 			(effects
 				(font
@@ -25439,7 +25439,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 173.99 72.39 0)
 			(effects
 				(font
@@ -25507,7 +25507,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 76.2 50.8 0)
 			(effects
 				(font
@@ -25646,7 +25646,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 92.71 78.74 0)
 			(effects
 				(font
@@ -25732,7 +25732,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 93.98 24.13 0)
 			(effects
 				(font
@@ -25802,7 +25802,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 120.65 100.33 0)
 			(effects
 				(font
@@ -25890,7 +25890,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 54.61 30.48 0)
 			(effects
 				(font
@@ -25978,7 +25978,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 148.59 121.92 0)
 			(effects
 				(font
@@ -26066,7 +26066,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 78.74 78.74 0)
 			(effects
 				(font
@@ -26154,7 +26154,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 64.77 121.92 0)
 			(effects
 				(font
@@ -26240,7 +26240,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 227.33 50.8 0)
 			(effects
 				(font
@@ -26444,7 +26444,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 176.53 24.13 0)
 			(effects
 				(font
@@ -26581,7 +26581,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 256.54 30.48 0)
 			(effects
 				(font
@@ -26669,7 +26669,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 82.55 30.48 0)
 			(effects
 				(font
@@ -26755,7 +26755,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 254 72.39 0)
 			(effects
 				(font
@@ -26894,7 +26894,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 64.77 57.15 0)
 			(effects
 				(font
@@ -27386,7 +27386,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 62.23 50.8 0)
 			(effects
 				(font
@@ -27590,7 +27590,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 175.26 137.16 0)
 			(effects
 				(font
@@ -27660,7 +27660,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 34.29 57.15 0)
 			(effects
 				(font
@@ -27813,7 +27813,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 146.05 50.8 0)
 			(effects
 				(font
@@ -27950,7 +27950,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 34.29 143.51 0)
 			(effects
 				(font
@@ -28103,7 +28103,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 118.11 50.8 0)
 			(effects
 				(font
@@ -28285,7 +28285,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 162.56 121.92 0)
 			(effects
 				(font
@@ -28371,7 +28371,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 203.2 137.16 0)
 			(effects
 				(font
@@ -28575,7 +28575,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 193.04 30.48 0)
 			(effects
 				(font
@@ -28663,7 +28663,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 50.8 78.74 0)
 			(effects
 				(font
@@ -28818,7 +28818,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 76.2 137.16 0)
 			(effects
 				(font
@@ -29024,7 +29024,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 236.22 24.13 0)
 			(effects
 				(font
@@ -29230,7 +29230,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 50.8 121.92 0)
 			(effects
 				(font
@@ -29385,7 +29385,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 31.75 50.8 0)
 			(effects
 				(font
@@ -29453,7 +29453,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 220.98 140.97 0)
 			(effects
 				(font
@@ -29588,7 +29588,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 227.33 93.98 0)
 			(effects
 				(font
@@ -29656,7 +29656,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 31.75 115.57 0)
 			(effects
 				(font
@@ -29931,7 +29931,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 201.93 72.39 0)
 			(effects
 				(font
@@ -30001,7 +30001,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 251.46 147.32 0)
 			(effects
 				(font
@@ -30154,7 +30154,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 76.2 115.57 0)
 			(effects
 				(font
@@ -30222,7 +30222,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 127 137.16 0)
 			(effects
 				(font
@@ -30495,7 +30495,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 256.54 78.74 0)
 			(effects
 				(font
@@ -30583,7 +30583,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 134.62 78.74 0)
 			(effects
 				(font
@@ -30671,7 +30671,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 190.5 57.15 0)
 			(effects
 				(font
@@ -30759,7 +30759,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 162.56 57.15 0)
 			(effects
 				(font
@@ -30847,7 +30847,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 148.59 78.74 0)
 			(effects
 				(font
@@ -30933,7 +30933,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 187.96 72.39 0)
 			(effects
 				(font
@@ -31001,7 +31001,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 254 115.57 0)
 			(effects
 				(font
@@ -31071,7 +31071,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 176.53 57.15 0)
 			(effects
 				(font
@@ -31228,7 +31228,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 50.8 57.15 0)
 			(effects
 				(font
@@ -31454,7 +31454,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 78.74 121.92 0)
 			(effects
 				(font
@@ -31540,7 +31540,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 31.75 93.98 0)
 			(effects
 				(font
@@ -31608,7 +31608,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 48.26 115.57 0)
 			(effects
 				(font
@@ -31678,7 +31678,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 129.54 143.51 0)
 			(effects
 				(font
@@ -31764,7 +31764,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 62.23 115.57 0)
 			(effects
 				(font
@@ -31834,7 +31834,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 176.53 100.33 0)
 			(effects
 				(font
@@ -31922,7 +31922,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Components:Diode_SOD-123"
 			(at 190.5 121.92 0)
 			(effects
 				(font
