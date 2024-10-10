@@ -9,6 +9,12 @@ Schematic Files for the various PCBs
 
 with the multiplexer - 11 pins - 6 rows, 5 cols
 
+# TUTORIAL BLYAD
+
+`git add -A`
+`git commit -m "message here"`
+`git push`
+
 # Frequently used Git Commands
 ### Clone this repository
 ```git clone https://github.com/PsychoDuckTech/Schematics.git```
