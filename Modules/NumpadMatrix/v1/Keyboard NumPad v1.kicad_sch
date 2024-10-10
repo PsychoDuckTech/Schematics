@@ -1972,7 +1972,7 @@
 	)
 	(global_label "Alimentação +"
 		(shape input)
-		(at 72.39 36.83 0)
+		(at 72.39 39.37 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1982,7 +1982,7 @@
 		)
 		(uuid "b0a1a365-93a5-4012-9804-839b364fb236")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 89.466 36.83 0)
+			(at 89.466 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2925,7 +2925,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+5V"
+		(property "Value" "+3.3v"
 			(at 40.64 81.2799 90)
 			(effects
 				(font
