@@ -12,10 +12,12 @@ with the multiplexer - 11 pins - 6 rows, 5 cols
 # TUTORIAL BLYAD
 
 `git add -A`
+
 `git commit -m "message here"`
+
 `git push`
 
-
+[Extensive Tutorial...](https://github.com/PsychoDuckTech/Schematics/blob/main/GitExtensiveTutorial.md)
 
 
 
