@@ -41,7 +41,7 @@
 	(setup
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
-		(grid_origin 26.81 52.93)
+		(grid_origin 26.81 29.1175)
 		(pcbplotparams
 			(layerselection 0x00010fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
@@ -23157,7 +23157,7 @@
 			(pinfunction "5V")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "8d31a7aa-1f10-4978-9168-18aaa3354726")
+			(uuid "56a2ab5b-77ab-4eb4-968a-504ffc7b372b")
 		)
 		(pad "6" smd rect
 			(at -7.985 7.36 180)
@@ -23237,7 +23237,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "c5384217-1a04-42a1-abcf-dbbf1be8a7b2")
+			(uuid "e904e04a-d67e-43d5-9356-3e380dd478bd")
 		)
 		(model "C:/Users/tomii/Documents/GitHub/Psycho/Schematics/Assets/Components/ESP32 C3-SUPERMINI/3D/ESP32-C3_SUPERMINI_SMD.step"
 			(offset
