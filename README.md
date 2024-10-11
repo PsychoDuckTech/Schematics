@@ -1,16 +1,15 @@
-# Schematics
-Schematic Files for the various PCBs
+# Schematic and PCB Files for PsychoDuck Tech PCBs
 
-# Notes
 
+## Notes
 35? GPIO pins on the ESP32-S3
 
 22 pins for the keyboard - 6 rows, 16 cols
 
 with the multiplexer - 11 pins - 6 rows, 5 cols
 
-# TUTORIAL BLYAD
 
+## Tutorial Brovsky
 `git add -A`
 
 `git commit -m "message here"`
@@ -20,8 +19,7 @@ with the multiplexer - 11 pins - 6 rows, 5 cols
 [Extensive Tutorial...](https://github.com/PsychoDuckTech/Schematics/blob/main/GitExtensiveTutorial.md)
 
 
-
-# Useful Resources
+## Useful Resources
 [KiCanvas](https://kicanvas.org/)
 
 [Discord Server](https://discord.gg/zeTJYsWzsf)
