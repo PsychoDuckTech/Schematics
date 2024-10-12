@@ -125,7 +125,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.005,
+        "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Keyboard NumPad v0.kicad_pro",
+    "filename": "ControlBoard v0.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -533,7 +533,7 @@
       "group_symbols": true,
       "name": "Grouped By Value",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Referência"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -576,7 +576,7 @@
   },
   "sheets": [
     [
-      "72d6a7bc-74bb-4585-b459-4dd0fcbeadc8",
+      "9c49f6de-83fe-41f7-a81d-bd4345f2b15d",
       "Raiz"
     ]
   ],

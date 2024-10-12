@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Keyboard Modulo 1.kicad_pro",
+    "filename": "Keyboard NumPad v1.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -577,7 +577,7 @@
   "sheets": [
     [
       "72d6a7bc-74bb-4585-b459-4dd0fcbeadc8",
-      "Root"
+      "Raiz"
     ]
   ],
   "text_variables": {}
