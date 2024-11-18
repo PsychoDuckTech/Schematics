@@ -23239,7 +23239,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "e904e04a-d67e-43d5-9356-3e380dd478bd")
 		)
-		(model "C:/Users/tomii/Documents/GitHub/Psycho/Schematics/Assets/Components/ESP32 C3-SUPERMINI/3D/ESP32-C3_SUPERMINI_SMD.step"
+		(model "C:/Users/tomii/Downloads/ESP32-C3 SuperMini--3DModel-STEP-56544.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
