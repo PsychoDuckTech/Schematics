@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ControlBoard v0.kicad_pro",
+    "filename": "keyboard ControlBoard v0.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -533,7 +533,7 @@
       "group_symbols": true,
       "name": "Grouped By Value",
       "sort_asc": true,
-      "sort_field": "Referência"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -576,8 +576,8 @@
   },
   "sheets": [
     [
-      "9c49f6de-83fe-41f7-a81d-bd4345f2b15d",
-      "Raiz"
+      "b125e232-b6f2-4c9d-9a25-453982b0a728",
+      "Root"
     ]
   ],
   "text_variables": {}
