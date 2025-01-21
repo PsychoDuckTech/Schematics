@@ -31415,6 +31415,26 @@
 		)
 	)
 	(gr_line
+		(start 24.746 29.033)
+		(end 24.741 22.162)
+		(stroke
+			(width 0.05)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "2aae9860-8ca7-4c98-b238-b32fdf16a5e7")
+	)
+	(gr_line
+		(start 105.0885 29.1385)
+		(end 105.0835 22.2675)
+		(stroke
+			(width 0.05)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "998ad114-1fab-4a23-b178-5f04ed8d8e4a")
+	)
+	(gr_line
 		(start 103.005 27.058)
 		(end 109.876 27.053)
 		(stroke
@@ -31563,6 +31583,39 @@
 			)
 			(justify left bottom)
 		)
+	)
+	(dimension
+		(type aligned)
+		(layer "Edge.Cuts")
+		(uuid "177049cd-ab57-4d69-a1f6-632ad8204215")
+		(pts
+			(xy 24.786 22.284465) (xy 105.036 22.353)
+		)
+		(height -0.001465)
+		(gr_text "80,2500 mm"
+			(at 64.911983 21.167268 359.9510676)
+			(layer "Edge.Cuts")
+			(uuid "177049cd-ab57-4d69-a1f6-632ad8204215")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.05)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
 	)
 	(dimension
 		(type aligned)
